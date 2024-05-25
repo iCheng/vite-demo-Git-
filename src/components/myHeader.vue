@@ -1,8 +1,9 @@
 <template>
   <div class="container">
     <div class="box">
-      <h2>金融领域情感分析系统</h2>
-      <router-link> 首页 </router-link>
+      <h2>金融领域情感分析系统，第一次更改</h2>
+      <span>第一次更改</span>
+      <router-link> 首页，第一次更改 </router-link>
       <router-link> 分析平台 </router-link>
       <router-link> 技术文档 </router-link>
       <router-link> 模型 </router-link>
